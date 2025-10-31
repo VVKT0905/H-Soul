@@ -1,9 +1,12 @@
 { 
-"version" : "0.1",
+"version" : "0.2",
 "hashURL" : "https://raw.githubusercontent.com/VVKT0905/H-Soul/refs/heads/main/hash.txt", 
 "downloadURL" : "https://drive.usercontent.google.com/download?id=1UYih8YIcJwND-D0UgzUiZBV8CSW0LO3g&authuser=0&confirm=t&uuid=cfcd6512-64c4-4ca1-8b92-ff644223c43f&at=AKSUxGNSlSsjjAbR9XY5ef1II6iT%3A1761840666741", 
+"launcherVersion": "0.2",
+"launcherDownloadURL": "https://drive.usercontent.google.com/download?id=1DZT1Mj-Fk02F2jbEcItFM2mxKAlsuqxR&authuser=0&confirm=t&uuid=4342d719-4a31-47b4-8896-047fe145021d&at=AKSUxGOqKVBxz2UL0CJEPlCdJRL3%3A1761931608765",
 "message" : "" 
 } 
+
 
 
 
